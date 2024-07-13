@@ -38,4 +38,4 @@
 ## Intereses
 - **Progamacion**
 - **Idiomas**
-- **Videojuego**
+- **Video juegos**
