@@ -3,7 +3,7 @@
 
 ## Información Personal
 - **Nombre Completo**: [Esteban David Araque Marcano]
-- **Correo Electrónico**: [estebandaramquem20@gmail.com]
+- **Correo Electrónico**: [estebandaraquem20@gmail.com]
 - **Teléfono**: [04120484506]
 - **Dirección**: [Campo de Oro Merida]
 
