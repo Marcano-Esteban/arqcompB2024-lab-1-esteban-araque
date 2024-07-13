@@ -8,7 +8,7 @@
 - **Dirección**: [Campo de Oro Merida]
 
 ## Educación
-- **Institución**: [Liceo bolivariano andres eloy blanco]
+- **Institución**: [Liceo Bolivariano Bndres Eloy Elanco]
 - **Grado Académico**: [Bachiller]
 - **Años de Estudio**: [2012 - 2018]
 
