@@ -13,13 +13,13 @@
 - **Años de Estudio**: [2012 - 2018]
 
 ## Experiencia Laboral
-- **Empresa**: [Ninguna]
+- **Empresa**: [Ninguno]
 - **Puesto**: [Ninguno]
-- **Duración**: [Niguna]
+- **Duración**: [Niguno]
 - **Responsabilidades**:
-  - [Ninguna]
-  - [Ninguna]
-  - [Ninguna]
+  - [Ninguno]
+  - [Ninguno]
+  - [Ninguno]
 
 ## Habilidades
 - **Progamacion en c++, c#**
